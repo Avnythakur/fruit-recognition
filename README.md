@@ -20,6 +20,9 @@ This work combines **academic research** with **practical implementation**, focu
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
+
+```text
 fruit-recognition/
 │
 ├── notebook/

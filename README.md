@@ -58,3 +58,26 @@ This project follows a comparative deep learning approach for fruit image classi
 ### 4. Model Evaluation
 - Compared models based on accuracy and performance
 - Analyzed generalization on unseen test data
+
+## 📊 Results and Discussion
+
+- Transfer learning models converged faster compared to the custom CNN
+- Custom CNN allowed greater architectural flexibility
+- Performance was affected by lighting variations and visually similar fruits
+
+  ## 🚀 How to Run the Project
+
+## 🚀 How to Run the Project
+
+1. Ensure Python 3 is installed.
+
+2. Install the required libraries:
+- NumPy
+- Pandas
+- Matplotlib
+- OpenCV
+- TensorFlow / Keras
+
+3. Run the application:
+```bash
+python src/app.py

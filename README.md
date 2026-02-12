@@ -20,3 +20,18 @@ This work combines **academic research** with **practical implementation**, focu
 ---
 
 ## 📂 Project Structure
+fruit-recognition/
+│
+├── notebook/
+│   ├── fruit_recognition_training.ipynb
+│   └── fruit_recognition_test.ipynb
+│
+├── src/
+│   └── app.py
+│
+├── paper/
+│   └── fruit_recognition_research_paper.pdf
+│
+├── README.md
+├── requirements.txt
+└── .gitignore

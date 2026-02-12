@@ -65,7 +65,6 @@ This project follows a comparative deep learning approach for fruit image classi
 - Custom CNN allowed greater architectural flexibility
 - Performance was affected by lighting variations and visually similar fruits
 
-  ## 🚀 How to Run the Project
 
 ## 🚀 How to Run the Project
 

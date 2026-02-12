@@ -80,3 +80,24 @@ This project follows a comparative deep learning approach for fruit image classi
 3. Run the application:
 ```bash
 python src/app.py
+```
+## 📄 Research Paper
+
+The research paper associated with this project presents a comparative study between a custom CNN and transfer learning approaches for fruit recognition.
+
+The paper is available in the `paper/` directory.
+
+## 👤 Author
+
+**Assistant Professor | Aspiring Data Scientist**
+
+Research Interests:
+- Deep Learning
+- Computer Vision
+- Transfer Learning
+
+## 🔮 Future Work
+
+- Evaluate additional pre-trained deep learning architectures
+- Improve robustness under varying lighting conditions
+- Deploy the fruit recognition system as a user-facing application

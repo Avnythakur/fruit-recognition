@@ -37,3 +37,25 @@ fruit-recognition/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+---
+
+## 🧠 Methodology
+
+This project follows a comparative deep learning approach for fruit image classification.
+
+### 1. Data Preprocessing
+- Image resizing and normalization
+- Data augmentation to reduce overfitting
+
+### 2. Custom CNN Model
+- Designed a custom Convolutional Neural Network
+- Trained from scratch on the fruit image dataset
+
+### 3. Transfer Learning Approach
+- Used pre-trained deep learning models
+- Fine-tuned final layers for fruit classification
+
+### 4. Model Evaluation
+- Compared models based on accuracy and performance
+- Analyzed generalization on unseen test data

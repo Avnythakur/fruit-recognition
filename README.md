@@ -37,8 +37,7 @@ fruit-recognition/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
----
+```
 
 ## 🧠 Methodology
 
